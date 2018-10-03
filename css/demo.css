@@ -1,0 +1,17 @@
+#container {
+	padding: 10px;
+	height: 450px; 
+	min-width: 350px;
+}
+
+.title {
+	font-family: 'Acme', sans-serif;
+	font-color: #14213D;
+	font-size: 72px;
+	margin-top: 50px;
+}
+
+body {
+background-image: linear-gradient(to right top, #33c4e5, #31a9d5, #3a8ec1, #4474a9, #495a8e);
+}				
+
